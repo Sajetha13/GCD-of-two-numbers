@@ -15,14 +15,14 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: S.Sajetha 
+RegisterNumber: 212223100049
+
 ```
 
 ## Output:
+![image](https://github.com/Sajetha13/GCD-of-two-numbers/assets/138849316/b811e58b-9280-465e-9d19-8c4d7cf9e214)
 
 
 
